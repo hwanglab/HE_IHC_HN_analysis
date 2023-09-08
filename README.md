@@ -8,5 +8,5 @@
 
 
 
-1. The Jupyter notebook named KM_plots_paper_submission.ipynb produces all the plots required for the paper.\\
+1. The Jupyter notebook named KM_plots_paper_submission.ipynb produces all the plots required for the paper.\
 2. plot-cox.R produce Figure 4 in the manuscript

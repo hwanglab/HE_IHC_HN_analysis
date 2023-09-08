@@ -19,6 +19,10 @@
 
 For registration, please see [here](https://github.com/hwanglab/WSI_registration)
 
+## License
+
+[GPL](https://github.com/hwanglab/HE_IHC_HN_analysis/blob/master/LICENSE)
+
 ## Contact
 Reach out to the [Hwang Lab](https://www.hwanglab.org/).
 

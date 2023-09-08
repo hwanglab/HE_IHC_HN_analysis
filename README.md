@@ -23,6 +23,9 @@ For registration, please see [here](https://github.com/hwanglab/WSI_registration
 
 © This project is licensed under GPL - see the [LICENSE](https://github.com/hwanglab/HE_IHC_HN_analysis/blob/master/LICENSE) file for details.
 
+## Acknowledgements
+This study was funded internally at Mayo Clinic, Florida. We thank the patients and their families. 
+
 ## Contact
 Reach out to the [Hwang Lab](https://www.hwanglab.org/).
 

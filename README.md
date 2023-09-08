@@ -7,6 +7,7 @@ Many people with a certain type of throat cancer (HPV+ OPSCC) get better, but ab
 
 
 
+## How to Run
 
 1. The Jupyter notebook named KM_plots_paper_submission.ipynb produces all the plots required for the paper.<br>
 2. plot-cox.R produce Figure 4 in the manuscript.<br>

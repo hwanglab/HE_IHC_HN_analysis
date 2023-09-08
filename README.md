@@ -14,7 +14,11 @@
 4. The data folder contains processed data for all the patients in a csv file format.
 5. For the TIL, Stroma, Tumor predictions on a tile level on H&E, we used pretrained model from [https://github.com/hwanglab/TILs_Analysis.git]
 6. For the grid level prediction and patient level predictions of Immune inflamed, Immune excluded and Immune desert are performed using Immune_pheno.ipynb
-   
+
+## Registration
+
+For registration, please see [here](https://github.com/hwanglab/WSI_registration)
+
 ## Contact
 Reach out to the [Hwang Lab](https://www.hwanglab.org/).
 

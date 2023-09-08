@@ -1,6 +1,6 @@
 ## Integrative Spatial Analysis of H&E and IHC Images Identifies Prognostic Immune Subtypes correlated with Progression Free Survival in HPV-Related Oropharyngeal Squamous Cell Carcinoma
 
-
+Many people with a certain type of throat cancer (HPV+ OPSCC) get better, but about 20% have the disease come back or spread. It's important to find signs that can tell which patients might face these issues. Our study looked closely at the variety of immune cells in these cancers. Using computer methods and special slides, we studied the types and roles of these cells. We grouped patients based on these cell patterns. Our findings suggest that patients with more specific immune cells in their tumors tend to have better chances of not seeing their disease return.
 
 
 ![Final_Manuscript_fig_1](https://github.com/hwanglab/HE_IHC_HN_analysis/assets/96131627/b133b708-49fc-4265-990f-dbc9e59ae1e6)

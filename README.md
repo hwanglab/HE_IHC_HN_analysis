@@ -10,14 +10,10 @@ Many people with a certain type of throat cancer (HPV+ OPSCC) get better, but ab
 
 1. The Jupyter notebook named KM_plots_paper_submission.ipynb produces all the plots required for the paper.<br>
 2. plot-cox.R produce Figure 4 in the manuscript.<br>
-3. The registration codes for the H&E and IHC images can be foung in [https://github.com/hwanglab/WSI_registration.git]<br>
+3. The registration codes for the H&E and IHC images can be foung in [here](https://github.com/hwanglab/WSI_registration)
 4. The data folder contains processed data for all the patients in a csv file format.
-5. For the TIL, Stroma, Tumor predictions on a tile level on H&E, we used pretrained model from [https://github.com/hwanglab/TILs_Analysis.git]
+5. For the TIL, Stroma, Tumor predictions on a tile level on H&E, we used pretrained model from [here](https://github.com/hwanglab/TILs_Analysis)
 6. For the grid level prediction and patient level predictions of Immune inflamed, Immune excluded and Immune desert are performed using Immune_pheno.ipynb
-
-## Registration
-
-For registration, please see [here](https://github.com/hwanglab/WSI_registration)
 
 ## License
 

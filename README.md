@@ -10,4 +10,5 @@
 
 1. The Jupyter notebook named KM_plots_paper_submission.ipynb produces all the plots required for the paper.<br>
 2. plot-cox.R produce Figure 4 in the manuscript.<br>
-The registration codes for the H&E and IHC images can be foung in [https://github.com/hwanglab/WSI_registration.git]\
+3. The registration codes for the H&E and IHC images can be foung in [https://github.com/hwanglab/WSI_registration.git].<br>
+4. The data folder contains processed data for all the patients in a csv file format.
